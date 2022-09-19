@@ -1,5 +1,5 @@
 
 
-  const linkElement = 
+  const
   expect(linkElement).toBeInTheDocument();
 });

@@ -1,5 +1,5 @@
 
 
-  const linkElement = screen.getByText(/learn react/i);
+  const linkElement = 
   expect(linkElement).toBeInTheDocument();
 });

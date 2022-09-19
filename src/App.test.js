@@ -1,3 +1,3 @@
 
-  expect(linkElement).
+  expect(
 });

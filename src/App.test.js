@@ -1,5 +1,3 @@
 
-
-  const
   expect(linkElement).toBeInTheDocument();
 });

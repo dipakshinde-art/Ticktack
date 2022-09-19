@@ -1,4 +1,4 @@
-import { render, screen } from ';
+import
 import App from './App';
 
 test('renders learn react link', () => {
